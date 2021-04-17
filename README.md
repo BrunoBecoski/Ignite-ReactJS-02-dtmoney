@@ -1,4 +1,4 @@
-# dtmoney
+# dt money
 
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -27,4 +27,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O dtmoney é um app de controle de finanças pessoais.
+O dt money é um app de controle de finanças pessoais.
