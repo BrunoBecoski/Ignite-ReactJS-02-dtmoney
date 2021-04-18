@@ -1,4 +1,7 @@
-# dt money
+<p align="center">
+  <img alt="dtmoney logo" src=".github/logo.png" />
+</p>
+
 
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -6,6 +9,12 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>
 </p> 
+
+<p align="center">
+  <img alt="dtmoney dashboard" src=".github/dashboard.png" />
+  <img alt="dtmoney modal" src=".github/modal.png" height="400" />
+</p>
+
 
 </br>
 
