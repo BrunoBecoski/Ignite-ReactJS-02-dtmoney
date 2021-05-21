@@ -47,7 +47,7 @@ O dt money é um app de controle de finanças pessoais.
 ```
 git clone https://github.com/BrunoBecoski/Ignite-ReactJS-02-dtmoney.git
 ```
-- Instale as depêndencias
+- Instale as dependências
 ```
 yarn install
 ```
